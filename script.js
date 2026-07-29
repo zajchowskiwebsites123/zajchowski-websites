@@ -30,5 +30,5 @@ const year = new Date().getFullYear();
 const footerYear = document.querySelector("footer p");
 if(footerYear){
     footerYear.innerHTML = 
-    '&copy; ${year} Zajchowski Websites. Wszystkie prawa zastrzeżone.';
+    '&copy; 2026 Zajchowski Websites. Wszystkie prawa zastrzeżone.';
 }
